@@ -14,6 +14,8 @@ Sample index.html file
 
 We will insert a picture here.
 
+[Sunset.jpg.tiff](https://github.com/user-attachments/files/25030889/Sunset.jpg.tiff)
+
 For example, we will insert a hyperlink that links to <a href=“http://www.asu.edu”>ASU webpage.</a>
 
 <hr>
